@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://LightSofa.github.io
 title: Sofa
 tagline: A log of everyday life
-description: My awesome new site
+description: My weblog
 paginate: 5
